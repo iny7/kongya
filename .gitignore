@@ -1,0 +1,17 @@
+
+*.info
+
+Library/metadata/*
+
+
+ProjectSettings/*
+
+*.bin
+
+*.log
+
+*.backup
+
+*.bakert
+
+*.meta
