@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6B76BD51-3839-BE7C-5685-5E401FC94A05}") = "kongya", "Assembly-CSharp.csproj", "{C915FFFF-7F39-4285-99A2-71A5B7182848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C915FFFF-7F39-4285-99A2-71A5B7182848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C915FFFF-7F39-4285-99A2-71A5B7182848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C915FFFF-7F39-4285-99A2-71A5B7182848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C915FFFF-7F39-4285-99A2-71A5B7182848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

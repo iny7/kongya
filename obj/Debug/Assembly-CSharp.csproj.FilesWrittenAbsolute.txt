@@ -1,0 +1,17 @@
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/iny/code/Unity/kongya/kongya/obj/Debug/Assembly-CSharp.dll
+/Users/iny/code/Unity/kongya/kongya/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/UnityEngine.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/UnityEditor.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Mono.Cecil.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Unity.DataContract.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/iny/code/Unity/kongya/kongya/Temp/bin/Debug/Mono.Cecil.Mdb.dll
